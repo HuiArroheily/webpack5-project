@@ -1,5 +1,5 @@
 .DS_Store
 *.js.LICENSE.txt
 
-
-# /node_modules
+/node_modules
+yarn.lock
